@@ -60,9 +60,3 @@ Purple Music is a modular system composed of:
 - Improving auth UX across platforms
 - Adding Google Calendar integration
 - Preferrably to scale to meta-app with being able to manage multiple booking organizations!
-
-I'm a recent graduate and software engineer working on real-world problems with full autonomy. Purple Music has been a passion project—building it has taught me about systems architecture, cloud infra, design systems, and handling the messiness of real-world code.
-
----
-
-Let me know if you'd like help splitting this into separate README files for each module (frontend, backend, etc.) or showcasing it better on your GitHub profile!
