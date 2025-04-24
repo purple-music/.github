@@ -3,6 +3,8 @@
 ### A fullstack SaaS platform for music studio booking
 
 ![изображение](https://github.com/user-attachments/assets/7f949b8b-1016-47ff-9aad-c406ab2d7c18)
+![image(2)](https://github.com/user-attachments/assets/8d68540e-889d-4c7b-b9df-71a80fb4132e)
+
 
 https://purple.porkenstein.ru
 
